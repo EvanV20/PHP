@@ -1,0 +1,6 @@
+# Fichiers systeme / editeur
+Thumbs.db
+.DS_Store
+*.log
+.vscode/
+.idea/
